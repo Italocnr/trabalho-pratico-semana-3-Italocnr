@@ -18,4 +18,4 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Print da tela da página criada
 
-![Print da tela](/public/img/HomePage_pt2.png)
+![Print da tela](/public/img/print_da_pagina.png)
