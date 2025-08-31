@@ -9,7 +9,7 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 ## Informações Gerais
 - Nome: Ítalo Eduardo Carneiro
 - Matricula: 898961
-- Proposta: Criação de um site para uma escola pública
+- Proposta: Desenvolvimento de um site institucional para uma escola pública, com o objetivo de organizar e apresentar informações importantes sobre a instituição. A página inicial incluirá seções sobre a missão, visão e valores da escola, história, corpo docente, projetos e atividades, calendário escolar e informações sobre matrículas, facilitando o acesso a essas informações por alunos, responsáveis e visitantes.
 
 ## Wireframe
 
@@ -18,4 +18,4 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Print da tela da página criada
 
-
+![Print da tela](/public/img/HomePage_pt2.png)
