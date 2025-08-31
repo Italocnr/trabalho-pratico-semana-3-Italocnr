@@ -7,9 +7,9 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 **IMPORTANTE:** Você deve trabalhar e alterar apenas arquivos dentro da pasta **`public`**. Deixe todos os demais arquivos e pastas desse repositório inalterados. **PRESTE MUITA ATENÇÃO NISSO.**
 
 ## Informações Gerais
-- Nome: 
-- Matricula: 
-- Proposta: 
+- Nome: Ítalo Eduardo Carneiro
+- Matricula: 898961
+- Proposta: Criação de um site para uma escola pública
 
 ## Wireframe
 
