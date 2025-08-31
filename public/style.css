@@ -1,0 +1,208 @@
+
+
+body {
+    font-family: 'Lucida Sans', sans-serif;
+    line-height: 1.5;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    width: 100%;
+    height: 80px;             
+    background-color: brown;
+    text-align: center;       
+    line-height: 80px;        
+    white-space: nowrap;       
+}
+
+nav img {
+    display: inline-block;
+    vertical-align: middle;   
+    height: 40px;
+    margin-right: 20px;
+}
+
+
+nav ul.l_nav {
+    display: inline-block;
+    vertical-align: middle;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin: 0 15px;
+    color: yellow;
+}
+
+/* Formulário de pesquisa */
+nav .search {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 30px;         /* distância da lista */
+}
+
+nav .search input[type="text"] {
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    vertical-align: middle;
+}
+
+nav .search button {
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: yellow;
+    cursor: pointer;
+    margin-left: 5px;
+    vertical-align: middle;
+}
+
+nav .search button:hover {
+    background-color: gold;
+}
+
+
+/* Header */
+header {
+    width: auto;
+    height: 400px;
+    background-image: url('img/grupo-de-criancas-com-professora-caminhando-no-corredor-da-escola (1).jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding-top: 150px;
+}
+
+header h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 18px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+/* Seções principais */
+main section {
+    padding: 50px 20px;
+    border-bottom: 1px solid #ccc;
+}
+
+main section h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    color: brown;
+}
+
+main section p, main section li {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+main section ul {
+    list-style: disc;
+    margin-left: 20px;
+}
+
+#he img{
+  width: 50%;
+  height: auto;
+}
+
+/* Missão, Visão e Valores (M_V_V) */
+#m_v_v {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+#m_v_v div {
+    width: 300px;
+    margin: 10px;
+}
+
+/* Professores */
+#prof div {
+    display: inline-block;
+    vertical-align: top;
+    width: 200px;
+    margin: 10px;
+    text-align: center;
+}
+
+#prof img {
+    width: 100%;
+    height: 300px;
+    border-radius: 5px;
+}
+
+/* Projetos e Atividades */
+#pa div {
+    margin-bottom: 30px;
+}
+
+#pa img {
+    max-width: 50%;
+    height: auto;
+    margin: 10px 0;
+}
+#ce img{
+  width: 80%;
+  height: auto;
+}
+
+/* Formulários */
+form input, form select {
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0 15px 0;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+form input[type="submit"] {
+    width: auto;
+    background-color: brown;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+form input[type="submit"]:hover {
+    background-color: darkred;
+}
+
+/* Área do aluno */
+section div form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+/* Footer */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 30px 20px;
+    font-size: 14px;
+}
+
+footer a {
+    color: yellow;
+    text-decoration: none;
+    margin: 0 5px;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
